@@ -17,8 +17,9 @@
 
 ---
 Cybersecurity Education Platforms
-![TryHackMe Profile](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1824802)
-
+<p align="center">
+  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1824802" style='border:none;'></iframe>
+</p>
 ---
 
 ## 🛠️ Languages and Tools  
