@@ -17,8 +17,7 @@
 
 ---
 Cybersecurity Education Platforms
-
-![tryhackme stats](https://raw.githubusercontent.com/P3akyB0y/P3akyB0y/master/assets/thm_propic.png)
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1824802" style='border:none;'></iframe>
 ---
 
 ## 🛠️ Languages and Tools  
