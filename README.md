@@ -6,11 +6,10 @@
 </div>
 
 ---
-1
 ## 🎓 Education  
 
 <p align="center">
-  <img src="YOUR_IMAGE_URL" alt="Sam Houston State University" width="48" height="48" />
+  <img src="SH_orange.png" alt="Sam Houston State University" width="48" height="48" />
 </p>
 
 - 🏫 **Bachelor's Degree in Cybersecurity**  
