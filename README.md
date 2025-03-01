@@ -1,19 +1,31 @@
-## Hi there 👋
+## Howdy there 👋
+
 <div align="center"> 
   <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/{p3akyB0y}/count.svg" alt="Visitor's Count" />
+  <img src="https://profile-counter.glitch.me/{P3akyB0y}/count.svg" alt="Visitor's Count" />
 </div>
 <!--
 **P3akyB0y/P3akyB0y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+#Programming/Scripting/Database Languages
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,powershell,sql,latex" />
+</p>
+
+<hr>
+
+
+#Operating Systems
+<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=windows,kali,ubuntu" />
+</p>
+<hr>
+
+
+- I’m currently working on expanding my foundational skills. I am focusing on obtaining my security + from Comptia and have enrolled and been working on my Offensive Security Certified Professional
+- 🤔 I’m looking for help with networking and an entry level cybersecurity position 
+- 😄 Pronouns: Trash/Can
+- ⚡ Fun fact: I love raccoons
