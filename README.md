@@ -7,7 +7,7 @@
 <!--
 **P3akyB0y/P3akyB0y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-#Programming/Scripting/Database Languages
+##Programming/Scripting/Database Languages
 <br>
 
 <p align="center">
@@ -17,15 +17,16 @@
 <hr>
 
 
-#Operating Systems
+##Operating Systems
 <br>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows,kali,ubuntu" />
 </p>
+
 <hr>
 
-
-- I’m currently working on expanding my foundational skills. I am focusing on obtaining my security + from Comptia and have enrolled and been working on my Offensive Security Certified Professional
-- 🤔 I’m looking for help with networking and an entry level cybersecurity position 
-- 😄 Pronouns: Trash/Can
-- ⚡ Fun fact: I love raccoons
+##- I’m currently working on expanding my foundational skills. I am focusing on obtaining my security + from Comptia and have enrolled and been working on my Offensive Security Certified Professional
+##- 🤔 I’m looking for help with networking and an entry level cybersecurity position 
+##- 😄 Pronouns: Trash/Can
+##- ⚡ Fun fact: I love raccoons
