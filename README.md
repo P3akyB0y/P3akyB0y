@@ -26,14 +26,12 @@ Languages and Tools
 
 ---
 
-📚 About Me  
+ About Me  
 
-- 🌱 I’m currently working on expanding my foundational skills. <br>  
-   - 📜 Focusing on obtaining my **Network+** from **CompTIA**. <br>  
+-  I’m currently working on expanding my foundational skills. <br>    
    - 🛡️ Enrolled in and working towards my **Offensive Security Certified Professional (OSCP)**. <br>  
-- 🤔 I’m looking for help with networking and landing an **entry-level cybersecurity position**. <br>  
-- 😄 Pronouns: **Trash/Can**. <br>  
-- ⚡ Fun fact: **I love raccoons**. <br>  
+-  I’m looking for help with networking and landing an **entry-level cybersecurity position**. <br>  
+
 
 ---
 
