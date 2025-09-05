@@ -14,7 +14,10 @@
 </p>
 
 <p align="center">
-<img src="SecurityPlus Logo Certified CE.png" width="160" height="160" />
+<img src="Security+-png.png" width="160" height="160" />
+</p>
+<p align="center">
+<img src="Network+-png.png" width="160" height="160" />
 </p>
 - **Languages and Tools**  
 
