@@ -1,11 +1,3 @@
- Howdy there, Thank you for checking out my github   
-
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/{P3akyB0y}/count.svg" alt="Visitor's Count" />
-</div>
-
----
 **Education**  
 
 <p align="center">
