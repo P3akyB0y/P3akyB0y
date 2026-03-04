@@ -22,14 +22,13 @@
 <img src="Security+-png.png" width="160" height="160" />
 <img src="Network+-png.png" width="160" height="160" />
 </p>
-- **Languages and Tools**  
+
+## **Languages and Tools**  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,powershell,mysql,latex" /><br>
   <img src="https://skillicons.dev/icons?i=windows,kali,ubuntu" />
 </p>
-
----
 
 ## **📚About Me**  
 
