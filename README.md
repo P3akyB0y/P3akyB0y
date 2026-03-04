@@ -1,18 +1,19 @@
-**Education**  
+## **Education**  
 <p align="center">
-  <img src="UNT.png" alt="University of Tulsa" width="240" height="240" />
-</p>
-<p align="center">
-  <img src="SH_orange.png" alt="Sam Houston State University" width="240" height="240" />
+  <img src="UNT.png" alt="University of Tulsa" width="360" height="360" />
 </p>
 
 - **Master's Degree in Cybersecurity**  
    - **The University Of Tulsa** 
+
+<p align="center">
+  <img src="SH_orange.png" alt="Sam Houston State University" width="360" height="360" />
+</p>
+
 - **Bachelor's Degree in Cybersecurity**  
    - **Sam Houston State University** 
 
----
-- **Continuing Education and Training Platforms**
+## **Continuing Education and Training Platforms**
 <p align="center">
   <img src="https://tryhackme-badges.s3.amazonaws.com/nbroussard0710.png" alt="Your Image Badge" />
 </p>
@@ -30,7 +31,7 @@
 
 ---
 
-## **📚 About Me**  
+## **📚About Me**  
 
 -  I’m currently working on expanding my foundational skills. <br>  
    - Focusing on obtaining my **AZ900** from **Microsoft**. <br>  
