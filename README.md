@@ -1,14 +1,18 @@
-Education  
-
+**Education**  
 <p align="center">
-  <img src="SH_orange.png" alt="Sam Houston State University" width="480" height="480" />
+  <img src="UNT.png" alt="University of Tulsa" width="240" height="240" />
+</p>
+<p align="center">
+  <img src="SH_orange.png" alt="Sam Houston State University" width="240" height="240" />
 </p>
 
+- **Master's Degree in Cybersecurity**  
+   - **The University Of Tulsa** 
 - **Bachelor's Degree in Cybersecurity**  
    - **Sam Houston State University** 
 
 ---
-- Continuing Education and Training Platforms**
+- **Continuing Education and Training Platforms**
 <p align="center">
   <img src="https://tryhackme-badges.s3.amazonaws.com/nbroussard0710.png" alt="Your Image Badge" />
 </p>
@@ -17,7 +21,7 @@ Education
 <img src="Security+-png.png" width="160" height="160" />
 <img src="Network+-png.png" width="160" height="160" />
 </p>
-Languages and Tools  
+- **Languages and Tools**  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,powershell,mysql,latex" /><br>
@@ -26,12 +30,11 @@ Languages and Tools
 
 ---
 
- About Me  
+## **📚 About Me**  
 
--  I’m currently working on expanding my foundational skills. <br>    
-   - 🛡️ Enrolled in and working towards my **Offensive Security Certified Professional (OSCP)**. <br>  
--  I’m looking for help with networking and landing an **entry-level cybersecurity position**. <br>  
-
+-  I’m currently working on expanding my foundational skills. <br>  
+   - Focusing on obtaining my **AZ900** from **Microsoft**. <br>  
+   - Enrolled in and working towards my **Offensive Security Certified Professional (OSCP)**. <br>    
 
 ---
 
